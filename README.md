@@ -13,7 +13,7 @@ The goal is to generate new views of a scene, given a single image and a respect
 ##### 3. Market
    ![market_gif](./outputs/market_gif2.gif/?raw=true)
    
-*** Note that the output of the software is saved as a `.jpg` image sequence in a new folder named ` `
+*** Note that the output of the software is saved as a `.jpg` image sequence in a new folder named ` ` and not as a `.gif` format. ***
 
 ## Authors:
 - [Husam Lucia](https://www.linkedin.com/in/husam-lucia-6841b51a3)
