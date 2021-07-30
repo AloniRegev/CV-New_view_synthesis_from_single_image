@@ -4,13 +4,13 @@
 The goal is to generate new views of a scene, given a single image and a respective depth map. This can be done by changing the pose of the camera and synthesizing the image that would have been captured from the new view-point.
 
 ## Exempale Outputs:
-1. Alley
+##### Alley
    ![alley_gif](./outputs/alley_gif2.gif/?raw=true)
 
-2. Ambush
+##### Ambush
    ![ambush_gif](./outputs/ambush_gif2.gif/?raw=true)
 
-3. Market
+##### Market
    ![market_gif](./outputs/market_gif2.gif/?raw=true)
 
 ## Authors:
