@@ -5,13 +5,13 @@ The goal is to generate new views of a scene, given a single image and a respect
 
 ## Exempale Outputs:
 1. Alley
-![alley_gif](.outputs/alley_gif2.gif/?raw=true)
+![alley_gif](./outputs/alley_gif2.gif/?raw=true)
 
 2. Ambush
-![ambush_gif](.outputs/ambush_gif2.gif/?raw=true)
+![ambush_gif](./outputs/ambush_gif2.gif/?raw=true)
 
 3. Market
-![market_gif](.outputs/market_gif2.gif/?raw=true)
+![market_gif](./outputs/market_gif2.gif/?raw=true)
 
 ## Authors:
 - [Husam Lucia](https://www.linkedin.com/in/husam-lucia-6841b51a3)
