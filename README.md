@@ -17,5 +17,5 @@ The goal is to generate new views of a scene, given a single image and a respect
 
 ## Authors:
 - [Husam Lucia](https://www.linkedin.com/in/husam-lucia-6841b51a3)
-- [Regev Aloni](https://www.linkedin.com/in/aloniregev)
+- [Regev Aloni](https://github.com/AloniRegev)
 
